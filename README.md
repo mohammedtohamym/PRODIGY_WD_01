@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
- Task 01 for PRODIGY Web Developlment Track
+This is task 01 for PRODIGY internship - Web Development track
